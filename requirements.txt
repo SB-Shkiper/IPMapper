@@ -1,3 +1,3 @@
-PyQt5==5.15.6
-folium==0.12.1
-stealth-requests==0.1.0
+PyQt5==5.15.11
+folium==0.19.4
+stealth-requests==1.2.1
